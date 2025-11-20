@@ -1,0 +1,234 @@
+ano,depto,total
+2011,antioquia,737270
+2012,antioquia,615954
+2013,antioquia,658152
+2014,antioquia,593579
+2015,antioquia,702393
+2016,antioquia,751987
+2017,antioquia,715273
+2018,antioquia,686723
+2019,antioquia,657909
+2011,boyacá,502326
+2012,boyacá,440094
+2013,boyacá,444025
+2014,boyacá,452051
+2015,boyacá,409094
+2016,boyacá,386909
+2017,boyacá,383377
+2018,boyacá,289499
+2019,boyacá,283004
+2011,caldas,70143
+2012,caldas,114623
+2013,caldas,111483
+2014,caldas,150296
+2015,caldas,120322
+2016,caldas,124376
+2017,caldas,150820
+2018,caldas,142117
+2019,caldas,140966
+2011,cundinamarca,344476
+2012,cundinamarca,376999
+2013,cundinamarca,382329
+2014,cundinamarca,394264
+2015,cundinamarca,311745
+2016,cundinamarca,292981
+2017,cundinamarca,374178
+2018,cundinamarca,334922
+2019,cundinamarca,289910
+2011,huila,113694
+2012,huila,126035
+2013,huila,165626
+2014,huila,139231
+2015,huila,162146
+2016,huila,184052
+2017,huila,234864
+2018,huila,164447
+2019,huila,161305
+2011,norte de santander,312997
+2012,norte de santander,309607
+2013,norte de santander,281071
+2014,norte de santander,249250
+2015,norte de santander,204045
+2016,norte de santander,210676
+2017,norte de santander,257297
+2018,norte de santander,259785
+2019,norte de santander,221458
+2011,quindio,33449
+2012,quindio,30605
+2013,quindio,35712
+2014,quindio,38361
+2015,quindio,30324
+2016,quindio,30905
+2017,quindio,37946
+2018,quindio,20996
+2019,quindio,25079
+2011,risaralda,34306
+2012,risaralda,34567
+2013,risaralda,33017
+2014,risaralda,35589
+2015,risaralda,31471
+2016,risaralda,38519
+2017,risaralda,56218
+2018,risaralda,37265
+2019,risaralda,37729
+2011,santander,308068
+2012,santander,296570
+2013,santander,237022
+2014,santander,214223
+2015,santander,261824
+2016,santander,263289
+2017,santander,308847
+2018,santander,305729
+2019,santander,289359
+2011,tolima,217325
+2012,tolima,219080
+2013,tolima,218009
+2014,tolima,180804
+2015,tolima,264832
+2016,tolima,294764
+2017,tolima,344899
+2018,tolima,334082
+2019,tolima,348890
+2011,atlantico,7713
+2012,atlantico,8652
+2013,atlantico,6361
+2014,atlantico,8966
+2015,atlantico,12232
+2016,atlantico,15496
+2017,atlantico,9417
+2018,atlantico,7222
+2019,atlantico,5444
+2017,san andres,279
+2018,san andres,426
+2019,san andres,549
+2011,bolivar,65593
+2012,bolivar,80273
+2013,bolivar,45489
+2014,bolivar,56652
+2015,bolivar,41693
+2016,bolivar,39896
+2017,bolivar,74348
+2018,bolivar,58018
+2019,bolivar,56670
+2011,cesar,89570
+2012,cesar,105662
+2013,cesar,133791
+2014,cesar,113418
+2015,cesar,192711
+2016,cesar,221390
+2017,cesar,144955
+2018,cesar,142623
+2019,cesar,152380
+2011,cordoba,11332
+2012,cordoba,12149
+2013,cordoba,21399
+2014,cordoba,19252
+2015,cordoba,19209
+2016,cordoba,21009
+2017,cordoba,34668
+2018,cordoba,39299
+2019,cordoba,34652
+2011,la guajira,37368
+2012,la guajira,20872
+2013,la guajira,60739
+2014,la guajira,46428
+2015,la guajira,59340
+2016,la guajira,82162
+2017,la guajira,56140
+2018,la guajira,46971
+2019,la guajira,48479
+2011,magdalena,62663
+2012,magdalena,89023
+2013,magdalena,99379
+2014,magdalena,59096
+2015,magdalena,89401
+2016,magdalena,79436
+2017,magdalena,88900
+2018,magdalena,68621
+2019,magdalena,46522
+2011,sucre,7358
+2012,sucre,4230
+2013,sucre,2823
+2014,sucre,3887
+2015,sucre,7474
+2016,sucre,5319
+2017,sucre,7020
+2018,sucre,12474
+2019,sucre,22200
+2011,cauca,228198
+2012,cauca,181385
+2013,cauca,211838
+2014,cauca,231146
+2015,cauca,210110
+2016,cauca,249464
+2017,cauca,293571
+2018,cauca,259446
+2019,cauca,274823
+2017,choco,120105
+2018,choco,61032
+2019,choco,63503
+2011,nariño,53919
+2012,nariño,51292
+2013,nariño,42648
+2014,nariño,43584
+2015,nariño,73536
+2016,nariño,64889
+2017,nariño,152548
+2018,nariño,94221
+2019,nariño,83818
+2011,valle del cauca,124996
+2012,valle del cauca,110414
+2013,valle del cauca,169741
+2014,valle del cauca,154941
+2015,valle del cauca,131998
+2016,valle del cauca,114711
+2017,valle del cauca,154434
+2018,valle del cauca,84916
+2019,valle del cauca,90478
+2016,arauca,186030
+2017,arauca,106121
+2018,arauca,74662
+2019,arauca,64383
+2011,casanare,81274
+2012,casanare,130093
+2013,casanare,215176
+2014,casanare,134223
+2015,casanare,140786
+2016,casanare,134112
+2017,casanare,116748
+2018,casanare,106834
+2019,casanare,99217
+2011,meta,206016
+2012,meta,235823
+2013,meta,321815
+2014,meta,252255
+2015,meta,260929
+2016,meta,262343
+2017,meta,286546
+2018,meta,248817
+2019,meta,269689
+2016,vichada,816889
+2017,vichada,694849
+2018,vichada,562439
+2019,vichada,560836
+2017,amazonas,10373
+2018,amazonas,4296
+2019,amazonas,3870
+2016,caqueta,261346
+2017,caqueta,403519
+2018,caqueta,319010
+2019,caqueta,329272
+2017,guainia,33273
+2018,guainia,20275
+2019,guainia,10422
+2017,guaviare,349474
+2018,guaviare,219559
+2019,guaviare,229795
+2016,putumayo,99852
+2017,putumayo,186204
+2018,putumayo,123878
+2019,putumayo,224993
+2017,vaupes,10807
+2018,vaupes,10807
+2019,vaupes,10807
+
